@@ -1,0 +1,4 @@
+[
+  {"id": "DEMO-001", "item": "Carrots", "boxes": 3, "expires": "2027-01-10"},
+  {"id": "DEMO-002", "item": "Apples", "boxes": 2, "expires": "2027-01-12"}
+]
